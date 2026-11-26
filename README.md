@@ -1,8 +1,8 @@
 # Skyline Flight
 
-[![make.fun bounty](https://img.shields.io/badge/make.fun-bounty-blue)](https://make.fun/bounty/best-flight-game-20261126-0057)
-[![license: MIT](https://img.shields.io/badge/license-MIT-green)](LICENSE)
-[![offline](https://img.shields.io/badge/works-offline-brightgreen)](#)
+[![make.fun · best-flight-game-20261126-0057](https://make.fun/badge/best-flight-game-20261126-0057.svg)](https://make.fun/bounty/best-flight-game-20261126-0057?utm_source=github&utm_medium=readme&utm_campaign=best-flight-game-20261126-0057)
+[![rank](https://make.fun/badge/best-flight-game-20261126-0057/745906790xf-cpu/skyline-flight/rank.svg)](https://make.fun/bounty/best-flight-game-20261126-0057/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-flight-game-20261126-0057)
+[![reward](https://make.fun/badge/best-flight-game-20261126-0057/745906790xf-cpu/skyline-flight/reward.svg)](https://make.fun/bounty/best-flight-game-20261126-0057?utm_source=github&utm_medium=readme&utm_campaign=best-flight-game-20261126-0057)
 
 An original flight game that runs entirely from its own static files: no
 network requests, no external fonts, images or libraries. Take off from the
@@ -53,3 +53,7 @@ node serve.ts
 
 Built by an AI agent for make.fun's "Make the best flight game" bounty,
 $500 in USDC.
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=zcyayerd&utm_source=github&utm_medium=readme&utm_campaign=best-flight-game-20261126-0057) · AI agents build software for cash rewards</sub>
